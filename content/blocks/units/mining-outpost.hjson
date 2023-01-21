@@ -13,7 +13,7 @@ plans: [
   {
     unit: prowler
     ]
-    time: 15005
+    time: 1500
   }
 ]
 category: units
