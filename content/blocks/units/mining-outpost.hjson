@@ -1,0 +1,23 @@
+name: "Mining Outpost"
+description: "Constructs mining units,requieres cyanogen to operate."
+type: UnitFactory
+health: 200
+size: 2
+consumes: {
+liquid: {
+  liquid: cyanogen
+  amount: 0.017
+}
+}
+plans: [
+  {
+    unit: prowler
+    ]
+    time: 15005
+  }
+]
+category: units
+requirements: [
+  cordium/20
+]
+research: core-obelisk
