@@ -1,0 +1,31 @@
+type: flying
+health: 150
+controller: BuilderAI
+isEnemy: false
+mineWalls: true
+mineFloor: true
+flying: true
+buildSpeed: 0.9
+accel: 0.09
+drag: 0.08
+mineSpeed: 4.8
+mineTier: 2
+speed: 3.5
+rotateSpeed: 8.3
+size: 1.95
+itemCapacity: 20
+outlineColor: "37383d"
+engines: [
+  {
+    x: -4.8
+    y: -5.2
+    rotation: -90
+    radius: 2
+  }
+  {
+    x: 4.8
+    y: -5.2
+    rotation: -90
+    radius: 2
+   }
+ ]
