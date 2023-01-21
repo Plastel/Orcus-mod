@@ -17,6 +17,6 @@ requiresUnlock: false
 planet: tantros
 }
 requirements: [
-    Nickel/1700
-    cadmium/800
+    cordium/1700
+    beryllium/500
 ]
