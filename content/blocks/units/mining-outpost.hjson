@@ -12,6 +12,8 @@ liquid: {
 plans: [
   {
     unit: prowler
+    requirements: ]
+    cordium/5
     time: 1500
   }
 ]
