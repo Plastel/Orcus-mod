@@ -15,7 +15,8 @@ plans: [
     requirements: [
       cordium/20
       beryllium/5
-    time: 1500
+    ]
+    time: 1545
   }
 ]
 category: units
