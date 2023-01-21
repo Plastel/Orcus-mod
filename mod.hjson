@@ -1,1 +1,8 @@
-
+name: "Orcus-mod"
+displayName: "Orcus"
+main: "orcus.Orcus"
+author: "Plastel"
+description: "My first mod, enjoy!."
+version: "0.6"
+minGameVersion: 141
+repo: Plastel/Orcus-mod 
