@@ -1,0 +1,9 @@
+name: Cordium
+description: Sightly radioactive, safe enough to be used in structures.
+color: 49D170
+explosiveness: 0.23
+flammability: 0.09
+radioactivity: 0.31
+charge: 0.87
+hardness: 3
+research: core-obelisk
