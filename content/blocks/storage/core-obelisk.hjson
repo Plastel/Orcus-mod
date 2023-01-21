@@ -1,1 +1,22 @@
-
+name: "Core: Obelisk"
+planet: tantros
+description: "A Core. Once destroyed, the sector is Lost"
+type: CoreBlock
+health: 1450
+size: 2
+itemCapacity: 2000
+category: effect
+unitCapModifier: 8
+unitType: eden
+buildVisibility: shown
+alwaysUnlocked: true
+research: {
+root: false
+name: "erekir"
+requiresUnlock: false
+planet: tantros
+}
+requirements: [
+    Nickel/1700
+    cadmium/800
+]
