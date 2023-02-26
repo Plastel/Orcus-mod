@@ -3,7 +3,7 @@ planet: tantros
 description: "A Core. Once destroyed, the sector is Lost"
 type: CoreBlock
 health: 1450
-size: 2
+size: 3
 itemCapacity: 2000
 category: effect
 unitCapModifier: 8
