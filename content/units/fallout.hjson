@@ -1,0 +1,44 @@
+type: mech
+health: 600
+flying: false
+speed: 1.35
+rotateSpeed: 9
+armor: 2
+hitSize: 12
+itemCapacity: 45
+weapons: [
+{
+name: cannon
+x: 0
+y: 0
+recoil: 2
+reload: 45
+mirror: false
+shootY: 0
+shootSound: lasershoot
+rotate: true
+rotationLimit: 60
+rotateSpeed: 7.5
+bullet: {
+   type: MissileBulletType
+   sprite: large-orb
+   backColor: 5AB9A8
+   frontColor: ffffff
+   width: 3
+   height: 3
+   damage: 10
+   splashDamage: 15
+   splashDamage: 15
+   collidesTeam: false
+   speed: 4
+   lifetime: 75
+   drag: 0.05
+   homingDelay: 5
+   homingRange: 45
+   trailWidth: 3
+   trailLength: 16
+   trailColor: 5AB9A8
+   trailEffect: hitBulletColor
+}
+}
+]
