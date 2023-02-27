@@ -1,8 +1,8 @@
 type: mech
 health: 600
 flying: false
-speed: 1.35
-rotateSpeed: 9
+speed: 0.99
+rotateSpeed: 2
 armor: 4
 hitSize: 12
 itemCapacity: 45
@@ -26,12 +26,12 @@ bullet: {
    frontColor: ffffff
    width: 3
    height: 3
-   damage: 10
-   splashDamage: 15
+   damage: 25
+   splashDamage: 10
    splashDamage: 15
    collidesTeam: false
-   speed: 4
-   lifetime: 75
+   speed: 6
+   lifetime: 125
    drag: 0.05
    homingDelay: 5
    homingRange: 45
