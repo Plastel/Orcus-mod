@@ -3,12 +3,12 @@ health: 600
 flying: false
 speed: 1.35
 rotateSpeed: 9
-armor: 2
+armor: 4
 hitSize: 12
 itemCapacity: 45
 weapons: [
 {
-name: cannon
+name: fallout-cannon
 x: 0
 y: 0
 recoil: 2
