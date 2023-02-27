@@ -22,7 +22,7 @@ rotateSpeed: 7.5
 bullet: {
    type: MissileBulletType
    sprite: large-orb
-   backColor: 5AB9A8
+   backColor: FE9165
    frontColor: ffffff
    width: 3
    height: 3
@@ -37,8 +37,9 @@ bullet: {
    homingRange: 45
    trailWidth: 3
    trailLength: 16
-   trailColor: 5AB9A8
+   trailColor: FE9165
    trailEffect: hitBulletColor
 }
 }
 ]
+research: mining-outpost
