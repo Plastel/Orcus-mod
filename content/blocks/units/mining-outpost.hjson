@@ -11,9 +11,8 @@ liquid: {
 }
 plans: [
   {
-    unit: prowler
+    unit: grom
     requirements: [
-      cordium/20
       beryllium/5
     ]
     time: 1545
