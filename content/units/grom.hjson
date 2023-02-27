@@ -1,5 +1,5 @@
 type: flying
-health: 60
+health: 125
 defaultController: MinerAI
 isEnemy: false
 mineWalls: true
