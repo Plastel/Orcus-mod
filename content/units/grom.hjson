@@ -8,7 +8,7 @@ flying: true
 accel: 0.09
 drag: 0.08
 mineSpeed: 3.5
-mineTier: 2
+mineTier: 4
 speed: 3.5
 rotateSpeed: 1.9
 size: 4
