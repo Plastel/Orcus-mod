@@ -1,0 +1,10 @@
+name: Common Larva 
+description: "Larva of a common strain and species, can be manipulated into new forms.
+  Can also be shoved into a combustion generator if you consider it useless LMAO"
+color: D4D392
+explosiveness: 0.00
+flammability: 0.95
+radioactivity: 0.11
+charge: 0.00
+hardness: 4
+research: core-obelisk
