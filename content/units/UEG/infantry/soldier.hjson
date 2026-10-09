@@ -12,7 +12,7 @@ parts: [
   {
     type: RegionPart
     suffix: "-head"
-    layer: 1
+    layer: 3
     x: 0
     y: 0
     under: false
