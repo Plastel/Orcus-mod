@@ -30,7 +30,6 @@ parts: [
   under: false
   drawRegion: true
   outline: false
-  color: team
   }
 ]
 weapons: [
