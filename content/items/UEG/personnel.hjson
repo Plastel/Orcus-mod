@@ -1,0 +1,9 @@
+name: Basic Personnel
+description: "A recluit ready to do anything they are trained to do. Needed for infantry, some buildings, miscellaneous vehicles, etc."
+color: D4D392
+explosiveness: 0.00
+flammability: 0.00
+radioactivity: 0.00
+charge: 0.00
+hardness: 4
+research: outpost
