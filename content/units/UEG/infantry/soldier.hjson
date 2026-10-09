@@ -19,9 +19,9 @@ weapons: [
     shootY: 3
     shootSound: shootSmall
     rotate: true
-    rotationLimit: 60
+    rotationLimit: 80
     rotateSpeed: 80
-    baseRotation: -60
+    baseRotation: 60
     top: false
     shoot: {
       shots: 4
