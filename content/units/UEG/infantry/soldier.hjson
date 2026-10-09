@@ -11,7 +11,7 @@ itemCapacity: 0
 parts: [
   {
     type: RegionPart
-    suffix: "soldier-head"
+    suffix: "-head"
     layer: 1
     x: 0
     y: 0
