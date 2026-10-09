@@ -11,8 +11,8 @@ itemCapacity: 0
 weapons: [
   {
     name: soldier-gun
-    x: -3
-    y: 0
+    x: -2
+    y: 1
     recoil: 0
     reload: 39
     mirror: false
