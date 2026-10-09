@@ -1,0 +1,50 @@
+type: mech
+health: 75
+description: "The most basic of UEG units. Fragile, but fast and far from innofensive. Always travels in groups, and can cause serious trouble if you underestimate them. Use AoE weapons like Mace to deal with them.             You want a piece of me boy?"
+flying: false
+speed: 0.7
+rotateSpeed: 2
+armor: 0
+hitSize: 7
+itemCapacity: 0
+
+weapons: [
+  {
+    name: soldier-rifle
+    x: -6
+    y: 3
+    recoil: 0
+    reload: 39
+    mirror: false
+    shootY: 3
+    shootSound: shootSmall
+    rotate: true
+    rotationLimit: 60
+    rotateSpeed: 80
+    baseRotation: -60
+    top: false
+    shoot: {
+      shots: 4
+      shotDelay: 2
+    }
+    bullet: {
+      type: BasicBulletType
+      sprite: bullet
+      speed: 3.2
+      damage: 3
+      lifetime: 40
+      width: 3
+      height: 5
+      backColor: B8A58A
+      frontColor: F3E5C8
+      hitColor: F3E5C8
+      collidesTeam: false
+      knockback: 0
+      shootEffect: shootSmall
+      smokeEffect: shootSmallSmoke
+      hitEffect: hitBulletSmall
+      despawnEffect: none
+    }
+  }
+]
+research: barracks
