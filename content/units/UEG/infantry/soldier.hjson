@@ -21,7 +21,7 @@ weapons: [
     rotate: true
     rotationLimit: 80
     rotateSpeed: 80
-    baseRotation: 60
+    baseRotation: -60
     top: false
     shoot: {
       shots: 4
