@@ -18,9 +18,9 @@ mineFloor: false
 mineSpeed: 0
 mineTier: 0
 
-armor: 8
-hitSize: 18
-size: 3
+armor: 4
+hitSize: 15
+size: 2
 itemCapacity: 60
 
 outlineColor: "37383d"
