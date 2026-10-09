@@ -1,1 +1,26 @@
+type: tank
+health: 700
+description: "A heavy engineering vehicle equipped with a 3D-printing construction system. Built to construct and repair structures under dangerous conditions."
+controller: BuilderAI
+isEnemy: false
 
+flying: false
+
+buildSpeed: 1.2
+
+accel: 0.035
+drag: 0.12
+speed: 0.85
+rotateSpeed: 1.5
+
+mineWalls: false
+mineFloor: false
+mineSpeed: 0
+mineTier: 0
+
+armor: 8
+hitSize: 18
+size: 3
+itemCapacity: 60
+
+outlineColor: "37383d"
