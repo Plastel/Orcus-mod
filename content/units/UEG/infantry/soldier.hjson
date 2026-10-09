@@ -9,7 +9,6 @@ armor: 0
 hitSize: 7
 itemCapacity: 0
 parts: [
-parts: [
   {
     type: RegionPart
     suffix: "-head"
