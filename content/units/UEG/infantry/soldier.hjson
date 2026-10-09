@@ -8,7 +8,16 @@ rotateSpeed: 4
 armor: 0
 hitSize: 7
 itemCapacity: 0
-
+parts: [
+  {
+    type: RegionPart
+    suffix: "soldier-head"
+    layer: 1
+    x: 0
+    y: 0
+    under: false
+  }
+]
 weapons: [
   {
     name: soldier-gun
