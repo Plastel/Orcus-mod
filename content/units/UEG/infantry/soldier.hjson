@@ -1,8 +1,9 @@
 type: mech
 health: 75
-description: "The most basic of UEG units. Fragile, but fast and far from innofensive. Always travels in groups, and can cause serious trouble if you underestimate them. Use AoE weapons like Mace to deal with them.             You want a piece of me boy?"
+description: "The most basic of UEG units. Fragile, but fast and far from innofensive. Always travels in groups, and can cause serious trouble if you underestimate them. Use AoE weapons like Mace to deal with them."            
+details: "You want a piece of me boy?"
 flying: false
-speed: 0.8
+speed: 1
 rotateSpeed: 4
 armor: 0
 hitSize: 7
