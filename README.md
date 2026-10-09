@@ -7,3 +7,7 @@ Submerge yourself into the deep world of **Endless Wars**!
 But since you probably won't understand sh#t if you only play, i will be leaving extensive lore thingies in the descriptions of almost every entity.. ehehe
 
 And a planned campaign!
+
+
+
+Heavily WIP, will be published once it is playable
