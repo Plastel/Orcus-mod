@@ -12,7 +12,7 @@ weapons: [
   {
     name: soldier-gun
     x: -3
-    y: 2
+    y: 0
     recoil: 0
     reload: 39
     mirror: false
