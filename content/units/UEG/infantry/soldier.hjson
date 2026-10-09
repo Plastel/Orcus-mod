@@ -10,7 +10,7 @@ itemCapacity: 0
 
 weapons: [
   {
-    name: soldier-rifle
+    name: soldier-gun
     x: -3
     y: 2
     recoil: 0
