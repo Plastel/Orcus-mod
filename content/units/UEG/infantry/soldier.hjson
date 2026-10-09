@@ -30,7 +30,7 @@ weapons: [
     reload: 39
     mirror: false
     shootY: 3
-    shootSound: shootSmall
+    shootSound: shoot
     rotate: true
     rotationLimit: 110
     rotateSpeed: 80
@@ -38,7 +38,7 @@ weapons: [
     top: false
     shoot: {
       shots: 4
-      shotDelay: 2
+      shotDelay: 1.25
     }
     bullet: {
       type: BasicBulletType
