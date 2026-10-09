@@ -9,13 +9,17 @@ armor: 0
 hitSize: 7
 itemCapacity: 0
 parts: [
+parts: [
   {
     type: RegionPart
     suffix: "-head"
-    layer: 3
+    layer: 100
+    layerOffset: 0
     x: 0
     y: 0
     under: false
+    drawRegion: true
+    outline: false
   }
 ]
 weapons: [
