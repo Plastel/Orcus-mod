@@ -11,7 +11,7 @@ itemCapacity: 0
 parts: [
   {
     type: RegionPart
-    suffix: "-head-cell"
+    suffix: "-head"
     layer: 99
     layerOffset: 0
     x: 0
@@ -21,15 +21,16 @@ parts: [
     outline: false
   },
   {
-    type: RegionPart
-    suffix: "-head"
-    layer: 100
-    layerOffset: 0
-    x: 0
-    y: 0
-    under: false
-    drawRegion: true
-    outline: false
+  type: RegionPart
+  suffix: "-head-cell"
+  layer: 100
+  layerOffset: 0
+  x: 0
+  y: 0
+  under: false
+  drawRegion: true
+  outline: false
+  color: team
   }
 ]
 weapons: [
