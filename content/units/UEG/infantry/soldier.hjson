@@ -19,7 +19,7 @@ weapons: [
     shootY: 3
     shootSound: shootSmall
     rotate: true
-    rotationLimit: 80
+    rotationLimit: 100
     rotateSpeed: 80
     baseRotation: -60
     top: false
