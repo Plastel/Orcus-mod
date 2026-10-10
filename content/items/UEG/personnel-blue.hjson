@@ -1,0 +1,9 @@
+name: Armored Personnel
+description: "A recruit trained to drive and operate the systems of combat vehicles. Needed for MBTs, IFVs, APCs, among others."
+color: D4D392
+explosiveness: 0.00
+flammability: 0.00
+radioactivity: 0.00
+charge: 0.00
+hardness: 4
+research: barracks
