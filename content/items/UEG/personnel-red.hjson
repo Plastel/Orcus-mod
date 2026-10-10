@@ -1,0 +1,8 @@
+name: Aerospace Personnel
+description: "A recruit trained to operate, fly or maintain aircraft or spacecraft. Needed to produce fighter jets, dropships, bombers, etc etc etc."
+explosiveness: 0.00
+flammability: 0.00
+radioactivity: 0.00
+charge: 0.00
+hardness: 4
+research: barracks
