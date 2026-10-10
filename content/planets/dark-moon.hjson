@@ -1,0 +1,14 @@
+{
+  parent: sun
+  radius: 1.0
+  sectorSize: 3
+  accessible: true
+  visible: true
+  hasAtmosphere: true
+  atmosphereColor: "665078"
+  iconColor: "8C6AA8"
+  landCloudColor: "665078"
+  atmosphereRadIn: 0.015
+  atmosphereRadOut: 0.22
+  description: "A dead industrial moon being brought back online. Ashen terrain, abandoned infrastructure, and the first stages of Malis's reconstruction."
+}
