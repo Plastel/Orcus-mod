@@ -1,8 +1,8 @@
 
 type: SectorPreset
-name: "Dark Moon Start"
+name: "Version 2"
 planet: dark-moon
 sector: 0
-file: "Version 2"
+file: "version-2"
 captureWave: 10
 difficulty: 1
