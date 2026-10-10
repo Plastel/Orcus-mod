@@ -5,3 +5,4 @@ difficulty: 2
 captureWave: 17
 research: {
 parent: core-bastion
+}
