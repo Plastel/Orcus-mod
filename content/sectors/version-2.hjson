@@ -3,12 +3,3 @@ name: "Version-2"
 sector: 0
 difficulty: 2
 captureWave: 17
-research: {
-parent: core-bastion
-objectives: [
-    {
-      type: SectorComplete
-      preset: theOnset
-    }
-  ]
-}
