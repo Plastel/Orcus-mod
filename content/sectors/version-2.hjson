@@ -1,0 +1,6 @@
+type: SectorPreset
+name: "version-2"
+planet: dark-moon
+sector: 0
+captureWave: 10
+difficulty: 1
