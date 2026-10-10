@@ -1,6 +1,6 @@
 name: Specialist Personnel
 description: "A recruit trained to do various support duties such as operating combat engineer vehicles, minelayers, EMP projectors, or even being a medic or engineer themselves."
-color: D4D392
+color: 62FB72
 explosiveness: 0.00
 flammability: 0.00
 radioactivity: 0.00
