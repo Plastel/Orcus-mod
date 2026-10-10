@@ -11,7 +11,7 @@ plans: [
     unit: soldier
     requirements: [
       beryllium/15
-      personnel/1
+      personnel-black/1
       copper/10
       
       
