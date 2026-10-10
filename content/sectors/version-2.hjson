@@ -1,8 +1,7 @@
-
-type: SectorPreset
-name: "Version 2"
 planet: dark-moon
+name: "Version-2"
 sector: 0
-file: "version-2"
-captureWave: 10
-difficulty: 1
+difficulty: 2
+captureWave: 17
+research: {
+parent: core-bastion
