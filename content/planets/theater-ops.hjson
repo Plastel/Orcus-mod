@@ -2,16 +2,13 @@
   parent: sun
   radius: 1.2
   sectorSize: 3
-
   accessible: true
   visible: true
   hasAtmosphere: true
-
   atmosphereColor: "789FC2"
   iconColor: "75B4E3"
   landCloudColor: "A7C7D8"
   atmosphereRadIn: 0.02
   atmosphereRadOut: 0.28
-
-  description: "A broad terrestrial world serving as the UEG's first major theater of operations. Blue-white skies, green terrain, and multiple fronts define the campaign."
+  description: "Not a planet in the traditional sense, but rather the representation of a whole new sector. Here, you will get to play new environments and a new faction."
 }
