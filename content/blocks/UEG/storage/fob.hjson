@@ -3,8 +3,8 @@ planet: tantros
 description: "An UEG base of operations. Once destroyed, the sector is lost."
 type: CoreBlock
 health: 6000
-size: 5
-itemCapacity: 3000
+size: 6
+itemCapacity: 6000
 category: effect
 unitCapModifier: 16
 unitType: beta
