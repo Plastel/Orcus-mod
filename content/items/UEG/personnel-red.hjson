@@ -1,5 +1,6 @@
 name: Aerospace Personnel
 description: "A recruit trained to operate, fly or maintain aircraft or spacecraft. Needed to produce fighter jets, dropships, bombers, etc etc etc."
+color: ED2626
 explosiveness: 0.00
 flammability: 0.00
 radioactivity: 0.00
